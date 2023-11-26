@@ -103,7 +103,7 @@ Feel free to reach out if you have any questions or need further assistance!
 
 
 # Licence 
-Copyright 2023 Athrva Deshmukh
+Copyright 2023 Rahul Ram P
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -117,4 +117,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Copyright 2023 [ATHRVA DESHMUKH](https://github.com/athrvadeshmukh)
+Copyright 2023 [Rahul Ram P](https://github.com/rahulram01)
